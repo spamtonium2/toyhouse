@@ -1,0 +1,123 @@
+<center>
+  <!-- Box for "Open Adoptable" text at the top -->
+  <div class="row no-gutters">
+    <div class="col-12 p-8">
+      <div class="p-3 rounded text-center" style="background-image: url(https://files.catbox.moe/xl3zgf.gif); background-attachment: fixed;">
+        <div class="card border-0 p-3">
+          <h1><strong><i><i class="fa-solid fa-user-tag fa-fade" style="--fa-animation-duration: 10s; --fa-fade-opacity: 0.6;"></i> Open Adoptable <i class="fa-solid fa-user-tag fa-fade" style="--fa-animation-duration: 10s; --fa-fade-opacity: 0.6;"></i></i></strong></h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Two columns for the main content -->
+  <div class="row no-gutters">
+    <!-- Left column for "Accepting", "Not Accepting", and "Comes With" -->
+    <div class="col-12 col-md-6 p-4">
+      <div class="p-1">
+        <div class="p-3 rounded text-center" style="background-image: url(https://web.archive.org/web/20000819134629im_/http://www.patswebgraphics.com/green/grn-tile11.gif); background-attachment: fixed;">
+          <div class="card border-0 p-3">
+            <strong><i class="fa-solid fa-check fa-fade" style="--fa-animation-duration: 2s; --fa-fade-opacity: 0.6;"></i> ACCEPTING:</strong> <span style="font-size:small">USD, DeviantArt Points</span>
+          </div>
+        </div>
+      </div>
+      <div class="p-1">
+        <div class="p-3 rounded text-center" style="background-image: url(https://web.archive.org/web/20000819134101im_/http://www.patswebgraphics.com/red/red-tile13.gif); background-attachment: fixed;">
+          <div class="card border-0 p-3">
+            <strong><i class="fa-solid fa-x fa-fade" style="--fa-animation-duration: 2s; --fa-fade-opacity: 0.6;"></i> NOT ACCEPTING:</strong><span style="font-size:small">Art trades / OCs</span>
+          </div>
+        </div>
+      </div>
+      <div class="p-1">
+        <div class="p-3 rounded text-center" style="background-image: url(https://files.catbox.moe/xl3zgf.gif); background-attachment: fixed;">
+          <div class="card border-0 p-3">
+            <strong><i class="fa-solid fa-shopping-cart fa-fade" style="--fa-animation-duration: 2s; --fa-fade-opacity: 0.6;"></i> COMES WITH:</strong> <span style="font-size:small">VR Chat avatar / 86 pieces of art / Page doll</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main image of character in is in this column -->
+    <div class="col-12 col-md-6 p-1">
+      <div class="p-3 rounded text-center">
+        <div class="card border-6 p-3">
+          <div class="container" style="position: relative; display: inline-block;">
+<!-- This is where you put in the image of the character! It's also pretty easy to change the file size, just do CTRL+F for '350' and replace that. Some reference images may be too squished at the size I picked, so feel free to go crazy editing this. -->
+            <img src="https://placehold.co/350x350/grey/white" alt="Alt text for the visually disabled" title="Hover text here" class="background-image" style="display: block;">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Information about the adoptable -->
+  <div class="card p-4 mb-2" style="border-radius: 15px 15px 0 0;">
+    <div class="row no-gutters">
+      <div class="col-12 col-md-6 p-1">
+        <div class="bg-faded p-3 h-100">
+          <p align="center"><span style="font-size:small">Gender, <i>pronouns,</i> <b>orientation</b></span>. <span style="font-size:small">Age, <i>race,</i> <b>profession</b></span> - Or some other shit about the adopt if you like to write lore about your adoptables</p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 p-1">
+        <div class="bg-faded p-3 h-100">
+          <p align="center"><strong>NOTES:</strong> <span style="font-size:small">Design notes design notes design notes</span></p><span style="font-size:small"><strong>CREDITS:</strong> Base by XYZ / Layout code by <a href="https://toyhou.se/Spamtonium2">Spamtoniumv2</a></span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!-- Your Terms of Service begin here -->
+  <div class="row no-gutters">
+    <div class="col-12 p-1">
+        
+<!-- This is where the BG image of your TOS section can be. I chose to leave it blank in the example, but you have room to put an image here. -->
+      <div class="p-3 rounded text-center" style="background-image: url(url); background-attachment: fixed;">
+        <div class="card border-0 p-3">
+            <div class="accordion md-accordion" id="tos-accordion" role="tablist" aria-multiselectable="true">
+      <div>
+        <div class="card p-3 mb-2" role="tab" id="tos-heading1">
+          <a data-toggle="collapse" data-parent="#tos-accordion" href="#tos-accordion1" aria-expanded="false" aria-controls="tos-accordion1">
+            <div class="mb-0">
+ <h1><strong>Terms of Service</strong></h1>
+            </div>
+          </a>
+        </div>
+        <div id="tos-accordion1" class="collapse show" role="tabpanel" aria-labelledby="tos-heading1" data-parent="#tos-accordion">
+          <div class="card-body p-3">
+            <ul class="fa-ul">
+              <li><span class="fa-li"><i class="fal fa-circle"></i></span>Put the rules for your adoptables here</li>
+              <li><span class="fa-li"><i class="fal fa-circle"></i></span>TOS Rule One</li>
+              <li><span class="fa-li"><i class="fal fa-circle"></i></span>TOS Rule Two</li>
+              <li><span class="fa-li"><i class="fal fa-circle"></i></span>TOS Rule Three</li>
+              <li><span class="fa-li">✓</span>Yes you CAN do this</li>
+              <li><span class="fa-li"><i class="fal fa-x"></i></span>No you CAN'T do this</li>
+            </ul>
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</center>
+
+<style>
+  }
+}
+
+  }
+
+  .container {
+    position: relative;
+    width: 350px; /* Ensure the width matches the image width */
+    height: 350px; /* Ensure the height matches the image height */
+  }
+</style>
+
+ <!-- Button to link to where to bid/autobuy/comment/wherever the fuck people need to go to actually obtain the adoptable -->
+  <div class="row no-gutters">
+    <div class="col-12 p-8">
+      <div class="p-3 rounded text-center" style="background-image: url(https://web.archive.org/web/20000819134629im_/http://www.patswebgraphics.com/green/grn-tile11.gif); background-attachment: fixed;">
+        <div class="card border-0 p-3">
+          <h1>Buy him <i><a href="Put link to Ko-Fi or TH or DeviantArt or whatever the fuck" title="Tell user where this link leads">here</a></i> on Ko-Fi</h1>
+        </div>
+      </div>
