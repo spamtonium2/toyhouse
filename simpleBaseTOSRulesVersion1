@@ -10,15 +10,6 @@
    <p>✓ make free adoptables</p>
   
   </b></div></div>
-<!--Tab profile icon badge (copy paste below only if you only want the second one)-->
-
-<div style="position:absolute;top:75px;left:200px;;z-index: 10000; transform: rotate(-15deg); font-size:18px">
-
-<i class="fas fa-beat fa-fw fa-3x">
-
-<img src="https://f2.toyhou.se/file/f2-toyhou-se/watermark_overlays/322417_5WjN43EWx02mA41.png"></i>
-
-</div>
 <div class="p-3 rounded text-center" style="background-image:url(https://i.postimg.cc/vTPkjsjb/116.png);background-attachment:fixed;"><div class="p-3" style="background-color:rgba(23, 23, 23, 0.6);color:rgba(235, 235, 235, 1)">
       <!-- bounce with extra rebound and "squish" on landing -->
   <i class="fa-solid fa-x fa-bounce" style="--fa-bounce-land-scale-x: 1.2;--fa-bounce-land-scale-y: .8;--fa-bounce-rebound: 5px;"></i><div class="text-danger"> <i><b>NO:</i></div> 
