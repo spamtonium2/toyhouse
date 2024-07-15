@@ -16,4 +16,4 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 <h1>TDLR:</h1>
-<p>You can edit/remix/build upon your my stuff non-commercially, as long as you credit me and release the new product under this same license.</p>
+<p>You can edit/remix/build upon your my stuff non-commercially, as long as you credit me and release the new product under this same license. If you aren't sure if something would be ok, please ask me.</p>
